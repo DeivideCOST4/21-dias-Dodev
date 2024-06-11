@@ -10,5 +10,5 @@ else if(fome==="com fome" && dinheiro === "com dinheiro" && restaurante === "fec
 }
 
 else if(fome === "com fome" && dinheiro === "com dinheiro" && restaurante === "aberto"){
-    console.log("hoje o jantar será no seu restaurante preferido!")
+    console.log("hoje o jantar será no seu restaurante preferido!!")
 }
