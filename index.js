@@ -9,6 +9,6 @@ else if(fome==="com fome" && dinheiro === "com dinheiro" && restaurante === "fec
     console.log("Peça um delivery")
 }
 
-else if(fome === "com fome" && dinheiro === "com dinheiro" && restaurante === "aberto"){
+else if(fome === "coom fome" && dinheiro === "com dinheiro" && restaurante === "aberto"){
     console.log("hoje o jantar será no seu restaurante preferido!!")
 }
